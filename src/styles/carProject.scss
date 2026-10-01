@@ -1,0 +1,22 @@
+.car-image {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
+
+.car-text {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.car-text span {
+    display: inline-block;
+    background: linear-gradient(rgb(255, 255, 255, 0.1), rgb(255, 255, 255, 0.8));
+    background-clip: text;
+    color: transparent;
+}
+

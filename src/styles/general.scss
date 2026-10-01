@@ -1,0 +1,63 @@
+* {
+	box-sizing: border-box;
+}
+a, a:hover, a:focus, a:active {
+	text-decoration: none;
+	color: inherit;
+}
+body {
+	font-family: 'Satoshi', Helvetica, Arial;
+	font-size: 1.2rem;
+	margin: 0;
+	background-color: #2f3133;
+	overflow: overlay;
+	color: #fff;
+}
+
+h1 {
+	font-size: 10rem;
+	font-weight: bolder;
+}
+
+h2 {
+	font-size: 5rem;
+	font-weight: bolder;
+}
+
+h3 {
+	font-size: 2.5rem;
+	font-weight: bolder;
+}
+
+h1, h2, p {
+	margin: 0;
+}
+
+::-webkit-scrollbar {
+	width: 15px;
+	height: 0;
+}
+ 
+::-webkit-scrollbar-track {
+	background: #bbcfff;
+}
+  
+::-webkit-scrollbar-thumb {
+	background-color: #fff;
+	border-radius: 100px;
+	border: 3.5px solid #bbcfff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #fff;
+}
+
+.noscroll {
+	overflow: hidden;
+}
+
+@media screen and (max-width: 768px) {
+	h1 {
+		font-size: 5rem;
+	}
+}
