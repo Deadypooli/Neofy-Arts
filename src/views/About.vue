@@ -22,7 +22,7 @@
         <br>
         <p>Have a project in mind? Feel free to get in touch.</p>
         <br>
-        <a href="mailto:neofy.artist@gmail.com">neofy.artist@gmail.com</a>
+        <a href="mailto:neofy.artist@gmail.com">neofy.artist@gmail.com</a> 
     </div>
 </template>
 
