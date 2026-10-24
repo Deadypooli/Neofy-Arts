@@ -2,25 +2,25 @@
     <Header />
     <div class="info-text">
         <h2>Hello</h2>
-        <p>I’m a young 3D Artist.</p>
-        <p>I’m someone who is generally interested in how things look, feel and function.
-            I am focused on design in many or almost all aspects of life.</p>
+        <p>I'm a 3D artist with a strong interest in design, from how things look and feel to how they function.</p>
         <br>
-        <p>When it comes to animation I am amazed how inspiring it can make one feel.
-            How it can bring up emotions and tell stories with deep meanings.</p>
+        <p>What fascinates me about art and animation is their ability to make people feel something
+            and bring creative ideas to life.
+            I enjoy exploring creative concepts and designs that go beyond the expected.</p>
             <br>
         <p>
-            At the moment, I’m working on my own short animated project in Blender,
-            which gives me the possibility to explore my creativity, ideas, and character-driven storytelling.
-            In the past, I’ve also worked on the Steam game Banana Drama, including modeling and animation.
+            In my work, I value creativity, attention to detail, and clean results.
+            I've worked on the Steam game Banana Drama, contributing to modeling and animation.
+            Outside of client work, I enjoy exploring my own ideas and creative concepts,
+            developing them in different directions through 3D and storytelling.
         </p>
         <br>
         <p>
-            Over time, art has changed from what i just did in class or at home experimenting to a full passion.
-            I work very organized with a focus on detail and a clean look.
+            What started as experimenting with art has grown into a passion and a professional direction.
+            I'm always interested in connecting with other creatives and collaborating on exciting projects.
         </p>
         <br>
-        <p>I am always open for new contacts, just write me an Email.</p>
+        <p>Have a project in mind? Feel free to get in touch.</p>
         <br>
         <a href="mailto:neofy.artist@gmail.com">neofy.artist@gmail.com</a>
     </div>

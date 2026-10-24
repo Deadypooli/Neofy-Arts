@@ -42,9 +42,6 @@
 				<a class="page-link" href="https://www.artstation.com/neofy" target="_blank">
 					<img src="../logo/white-artstation.svg" class="header-svg">
 				</a>
-				<a class="page-link" href="https://www.instagram.com/ne0fy/" target="_blank">
-					<img src="../logo/white-insta.svg" class="header-svg">
-				</a>
 			</div>
 		</div>
 	</header>
